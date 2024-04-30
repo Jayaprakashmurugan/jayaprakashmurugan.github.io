@@ -1,3 +1,6 @@
+
+![Mine](https://github.com/Jayaprakashmurugan/jayaprakashmurugan.github.io/assets/52098093/31a17c42-f4ac-4000-8d24-f643e9d266cd)
+
 # About Me 🚀
 
 Hey there! I’m Jayaprakash, and my journey into the captivating realm of technology commenced in the vibrant year of 2016. Venturing forth with a keen interest in deciphering the intricacies of data, I embarked on my professional voyage as a data analyst. It didn't take long for me to become enthralled by the dynamic landscape of data science technologies, where every dataset held the promise of discovery and insight.
